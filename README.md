@@ -1,4 +1,4 @@
-# Project Description:
+# Software Testing Project:
 
 * This project is a simple Java application designed to manage student registration within an academic institution. It utilizes JUnit for testing, Hibernate for database interaction, and is implemented using the Java programming language.
 
